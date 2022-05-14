@@ -1,8 +1,7 @@
-### 💥 🤖**EQUIPO BRAVO**🤖 💥
+# 💥 🤖**EQUIPO BRAVO**🤖 💥
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;
-# ➡️  TAREA HG1
+## ➡️  TAREA HG1
 ⛔ Pull-Request
 
 &nbsp;
@@ -14,6 +13,10 @@
 |------|-------------|------|
 | Alfa  | Carlos Almao | Vzla |
 | Bravo  | Aylen Lagorio | Arg|
-| Charlie | René Gómez | Vzla  
-|Delta | Marcos Dulcey | Vzla
+| Charlie | René Gómez | Vzla|
+|Delta | Marcos Dulcey | Vzla|
+
+
+
+© *Repositorio de Aylén Lagorio*
 
